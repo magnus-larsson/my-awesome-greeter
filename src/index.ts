@@ -1,3 +1,3 @@
-const util = require('./util');
+const util = import('./util');
 
 export const Greeter = (name: string) => `Hello ${name} from ${util.name()} at ${util.tsUtc()}`;

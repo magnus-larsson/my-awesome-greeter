@@ -1,5 +1,3 @@
-console.log("Util v1")
-
 module.exports = {
   name: function() {
       return "Magnus"
