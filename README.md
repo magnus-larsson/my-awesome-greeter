@@ -21,7 +21,7 @@ Based on [Step by step: Building and publishing an NPM Typescript package.](http
     git push
 
     npm login
-    npm publish --access public
+    npm publish --access public --tag 1.0.0
 
     git add -A && git commit -m "Minor change..."
     git push
