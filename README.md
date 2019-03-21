@@ -14,3 +14,5 @@ Based on [Step by step: Building and publishing an NPM Typescript package.](http
   npm run lint
   npm run format
   npm test
+  npm login
+  npm publish
